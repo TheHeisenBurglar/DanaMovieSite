@@ -1,0 +1,11 @@
+{
+  "name": "danamoviesite",
+  "version": "1.0.0",
+  "description": "Dana's Personal Movie site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibrahim Shehadeh",
+  "license": "ISC"
+}

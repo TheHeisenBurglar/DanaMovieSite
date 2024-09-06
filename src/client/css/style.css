@@ -1,0 +1,56 @@
+html{
+    background-color: black;
+    color: white;
+    font-size: larger;
+}
+.movie-div{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 0.5rem;
+    margin: auto;
+    width: fit-content;
+    padding: 2rem;
+    margin-top: 35%;
+    display: grid;
+    text-align: center;
+}
+.movie-div > * {
+    margin: 0;
+    padding: 0;
+}
+.title-header{
+    margin-bottom: 1rem;
+}
+.year-header{
+
+}
+.director-header{
+    margin-bottom: 1rem;
+}
+.status-p{
+    margin-bottom: 1rem;
+}
+/* Buttons */
+.check-p{
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 1rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    transition: 500ms;
+}
+.check-p:hover{
+    background-color: white;
+    color: black;
+}
+.random-p{
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 1rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    transition: 500ms;
+}
+.random-p:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
