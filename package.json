@@ -2,7 +2,7 @@
   "name": "danamoviesite",
   "version": "1.0.0",
   "description": "Dana's Personal Movie site",
-  "main": "index.js",
+  "main": "Index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
